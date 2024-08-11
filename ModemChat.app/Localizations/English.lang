@@ -1,0 +1,6 @@
+{
+  generalchat = "Chat via modem",
+  modemRequired = "Application requies modem",
+  pidorEbaniy = "Type message",
+  send = "Send"
+}
